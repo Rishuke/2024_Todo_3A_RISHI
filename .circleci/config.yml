@@ -17,7 +17,7 @@ jobs:
       - checkout
 
       # Uncomment one of the following lines depending on whether you want a debug or release build.
-      # For a debug build:
+      # For a debug build :
       - run:
           name: Assemble debug build
           command: |
